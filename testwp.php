@@ -11,7 +11,7 @@
  * Plugin Name:   testwp
  * Plugin URI:    https://github.com/Thiararapeter/testwp
  * Description:   test plugin for update
- * Version:       1.0.1
+ * Version:       1.0.2
  * Author:        peter
  * Author URI:    https://github.com/Thiararapeter
  * Text Domain:   testwp
